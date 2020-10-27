@@ -57,7 +57,8 @@ const response = await fetch(
 
 #### TodoList page
 
-Create another page in your app that displays a list of todo items.
+Create another page in your app that displays a list of todo items.  
+The url of that page should be: `/todo`
 
 - You should get the list of items from a server.
 - example request:
