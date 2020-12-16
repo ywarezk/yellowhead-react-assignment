@@ -2,7 +2,7 @@
 
 Please follow these rules when working on **yellowHead** coding assignment:
 
-- Candidates have 2 hours to complete the assignment.  
+- Candidates have 3 hours to complete the assignment.  
 The time is measured from the time the email containing the assignment is sent.
 - You can submit the assignment by sending a github link, to the same mail you got the assignment from.  
 The github repository link you send should contain you solution.
@@ -17,11 +17,17 @@ The github repository link you send should contain you solution.
 During this assignment you have to use the following libraries to complete the assignments:
 
 - [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
+- [Next.js](https://nextjs.org/) or 
+[create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)  
+> bonus for using Next.js and not create-react-aoo
 - [Redux](https://redux.js.org/)
-- [Redux Toolkit](https://redux-toolkit.js.org/)
-- [Formik](https://formik.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)  
+> If you don't have experience with Redux you can do the task without Redux toolkit, but extra bonus if you do use it.  
+
+> Even if you don't have experience with Redux you still have to use it since it's using common react patterns.
+- [Formik](https://formik.org/) or [react-hook-forms](https://react-hook-form.com/)
 - [Typescript](https://www.typescriptlang.org/)
+> Typescript is optional and you can do the task with Javascript as well, bonus if you do use typescript
 
 Feel free to use any additional libraries of your choice, but the ones above are obligatory
 
