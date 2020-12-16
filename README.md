@@ -33,7 +33,7 @@ Feel free to use any additional libraries of your choice, but the ones above are
 
 #### Create a new website
 
-Create a new website using `create-next-app`
+Create a new website using `create-next-app` or `create-react-app`
 
 #### Login page
 
